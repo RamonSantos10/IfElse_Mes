@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\ref\IfElse_Mes.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\bin\Debug\net5.0\IfElse_Mes.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\ref\IfElse_Mes.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\UsandoIfElse\IfElse_Mes\obj\Debug\net5.0\IfElse_Mes.genruntimeconfig.cache
